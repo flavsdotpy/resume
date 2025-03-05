@@ -9,7 +9,10 @@ Data Engineering Specialist - São Paulo, Brazil
 <div id="webaddress">
 <a href="flavio.mtps@gmail.com">flavio.mtps@gmail.com</a>
 | <a href="https://www.linkedin.com/in/flavsdotpy/">linkedin.com/in/flavsdotpy</a>
-| <a href="http://github.com/flavsdotpy">github.com/flavsdotpy</a>
+</div>
+  
+<div id="webaddress">
+<a href="http://github.com/flavsdotpy">github.com/flavsdotpy</a>
 | <a href="https://medium.com/@flavsdotpy">medium.com/@flavsdotpy</a>
 </div>
 
@@ -51,6 +54,8 @@ Working as a contractor via X-Team.
 __Data Engineer__, _X-Team_
 
 Working as a contractor for Riot Games.
+
+<div class="page-break"></div>
 
 ### 2020 - 2023
 __Data Engineer__, _iFood_
